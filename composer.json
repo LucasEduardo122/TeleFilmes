@@ -1,0 +1,20 @@
+{
+    "description": "Projeto TeleFilmes",
+    "authors": [
+        {
+            "name": "Lucas Eduardo",
+            "email": "luklucas42@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\" : "core",
+            "Adms\\": "app/adms",
+            "App\\": "app",
+            "Sts\\": "app/sts"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
