@@ -31,9 +31,9 @@ Espere o composer terminar e starte com o xampp ou wampp 🚀
 
 Siga os passos abaixo para contribuir:
 
-1. Faça o *fork* do projeto (<https://github.com/Vinidevsantos/Proffy>)
+1. Faça o *fork* do projeto (<https://github.com/LucasEduardo122/TeleFilmes.git>)
 
-2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/proffy.git`)
+2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/TeleFilmes.git`)
 
 3. Crie uma *branch* para realizar sua modificação (`git checkout -b feature/name_new_feature`)
 
@@ -56,6 +56,6 @@ Feito com ❤️ por Lucas Eduardo 👋🏽 Entre em contato!
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-eduardo-4a11a61a2)](https://www.linkedin.com/in/lucas-eduardo-4a11a61a2) 
-[![Gmail Badge](https://img.shields.io/badge/-santosvini.rv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santosvini.rv@gmail.com)](mailto:luklucas42@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luklucas42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luklucas42@gmail.com)](mailto:luklucas42@gmail.com)
 
 
