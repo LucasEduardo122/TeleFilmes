@@ -26,6 +26,8 @@ Rode o comando "composer dump-autoload" para que os diretórios das pastas sejam
 ```
 Espere o composer terminar e starte com o xampp ou wampp 🚀
 
+# Imagens
+![alt tag](https://media-exp1.licdn.com/dms/image/C4E22AQGq-QBPILObgA/feedshare-shrink_2048_1536/0?e=1603324800&v=beta&t=JY0QqTUtkTASydVNR6mld3pO-feVnj0_p9K0cAPNk4Q)
 
 ## 🤝 Contribuições
 
